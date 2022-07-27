@@ -5,7 +5,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>git-docker-jenkins</name>
 <build>
-<finalName> gt;java-jenkins-docker</finalName>;
+<finalName>java-jenkins-docker</finalName>
 </build>
   <dependencies>
   <dependency>
