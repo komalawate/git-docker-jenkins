@@ -1,4 +1,3 @@
-package example.docker;
 
 public class demo 
 {
